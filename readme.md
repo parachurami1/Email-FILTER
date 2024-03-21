@@ -23,7 +23,7 @@ To install the Email Filter Project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ULTRONLORD/EMAIL-FILTER.git
+git clone https://github.com/parachurami1/Email-FILTER.git
 ```
 
 2. Navigate to the project directory:
